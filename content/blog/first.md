@@ -52,7 +52,7 @@ Todo list:
 Tables:
 | Name | Surname |
 |--|--|
-| Piotr | Jura |
+| Haley | Frediani |
 
 ```html
 <html>
